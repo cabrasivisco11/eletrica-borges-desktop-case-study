@@ -35,10 +35,19 @@ These are **unaltered captures of the 1.1.0 candidate UI** running with a dispos
 
 [Screenshot provenance and disclosure notes](media/README.md)
 
-## Demonstrations
+## Video Demonstrations
 
-- [Watch the English demonstration (91 seconds)](media/demos/eletrica-borges-demo-en.mp4)
-- [Assista à demonstração em português (91 segundos)](media/demos/eletrica-borges-demo-pt-br.mp4)
+### Português (Brasil) — Elétrica Borges Desktop
+
+https://github.com/user-attachments/assets/2ca4ee69-278d-4565-84e7-b2416fe88db8
+
+[Open the Portuguese video in a separate player](https://github.com/user-attachments/assets/2ca4ee69-278d-4565-84e7-b2416fe88db8) · [Repository MP4](media/demos/eletrica-borges-demo-pt-br.mp4)
+
+### English — Elétrica Borges Desktop
+
+https://github.com/user-attachments/assets/7865626e-25e8-4932-8a0c-329aa77ac7fc
+
+[Open the English video in a separate player](https://github.com/user-attachments/assets/7865626e-25e8-4932-8a0c-329aa77ac7fc) · [Repository MP4](media/demos/eletrica-borges-demo-en.mp4)
 
 Both videos show recorded application workflows, including the dashboard, catalog, customers, quotation editor, calculations, PDF preview, and Windows print dialog. They use test data and are silent. The public copies obscure the commercial logo and potentially identifying fields; the original recordings remain outside this repository. The print dialog demonstrates the software path, **not** a completed physical print or customer-site acceptance. [Media provenance](media/README.md).
 
