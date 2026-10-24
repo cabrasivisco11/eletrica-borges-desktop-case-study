@@ -1,0 +1,22 @@
+# Keep this documentation repository separate from commercial artifacts.
+*.db
+*.sqlite
+*.sqlite3
+*.eblic
+*.pem
+*.key
+*.pfx
+*.p12
+*.exe
+*.msi
+*.zip
+*.7z
+*.asar
+*.log
+.env*
+node_modules/
+dist/
+build/
+admin/
+backups/
+private/
